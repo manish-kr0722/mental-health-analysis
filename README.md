@@ -40,7 +40,7 @@ Treatment history is not a diagnosis or a direct measure of current need.
 
 The Streamlit app includes demographic, workplace-support, treatment-factor and multivariate analysis views. Interactive filters and Plotly charts support exploration of the survey.
 
-[Open the published app](https://mental-health-in-tech-survey-eda-analysis-erntqjzaftszeeuhsqvn.streamlit.app/)
+[Open the published app](https://mental-health-analysis-p9tz5bd2xhwgdgvovfmne4.streamlit.app/)
 
 ## Recommendations
 
